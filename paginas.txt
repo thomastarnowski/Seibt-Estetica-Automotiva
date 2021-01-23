@@ -1,0 +1,9 @@
+paginas:	 home, sobre nós, serviços, fotos, contato (form+mapa). header e footer fixos com icones face insta 
+
+paleta cores 
+#000 preto
+#00F7FF azul agua
+#fff branco
+
+
+	 	
